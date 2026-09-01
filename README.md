@@ -1,5 +1,6 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Akshit%20Jain&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=First%20Year%20BTech%20Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
+-->
 
 
 <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
